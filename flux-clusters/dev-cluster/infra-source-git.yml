@@ -7,5 +7,5 @@ metadata:
 spec:
   interval: 1m0s
   ref:
-    branch: infrastructure
+    branch: main
   url: https://github.com/frankbeu/bb-app-source
